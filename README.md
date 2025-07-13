@@ -31,6 +31,6 @@
 
 <ins>**Main features :**</ins>
 
-- <ins>**1. Start**</ins>
-- <ins>**2. Patch**</ins>
-- <ins>**3. Play**</ins>
+- <ins>1. Start</ins>
+- <ins>2. Patch</ins>
+- <ins>3. Play</ins>
